@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "marca": "Ford",
+        "anio": 2000,
+        "tipo": "Sedan"
+        
+    },
+    
+    {
+        "id": 2, 
+        "marca": "Renault",
+        "anio": 2009,    
+        "tipo": "Sedan"
+        
+    },
+    
+    {
+        "id": 3,
+        "marca": "Chevrolet",
+        "anio": 2007,
+        "tipo": "Pick-up"
+        
+    },
+    
+    {
+        "id": 4,
+        "marca": "FIat,", 
+        "anio": 1991,
+        "tipo": "Sedan"
+        
+    },
+    {
+        "id":5, 
+        "marca":"Toyota", 
+        "anio":2011, 
+        "tipo":"Sedan"
+    }
+    ]

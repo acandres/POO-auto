@@ -1,11 +1,11 @@
 export class Auto {
-    nombre: string;
+    id: number;
     marca: string;
     anio: number;
     modelo: string;
     
-    constructor(nombre:string, marca:string, anio:number, modelo:string){
-        this.nombre = nombre;
+    constructor(id:number, marca:string, anio:number, modelo:string){
+        this.id = id;
         this.marca = marca;
         this.anio = anio;
         this.modelo = modelo;
